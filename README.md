@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Paula ⭐ </h1>
+<h1 align="center">Hola 👋, Soy Paula </h1>
 <h3 align="center">Desarrolladora Backend</h3>
 
 - 🌱Actualmente estoy aprendiendo **Springboot Framework**
