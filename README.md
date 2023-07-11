@@ -3,8 +3,6 @@
 
 - 🌱Actualmente estoy aprendiendo **Springboot Framework**
 
-- 👨‍💻 mis proyectos estan en [https://github.com/acosta604](https://github.com/acosta604)
-
 - 📫 Contactame **paulaacosta2021@gmail.com**
 
 <h3 align="left">Conecta conmigo:</h3>
